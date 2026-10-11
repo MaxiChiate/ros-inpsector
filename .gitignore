@@ -1,0 +1,12 @@
+# artefactos de colcon
+ws/build/
+ws/install/
+ws/log/
+
+# python
+__pycache__/
+*.pyc
+
+# editores
+.vscode/
+.idea/
